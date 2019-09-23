@@ -1,2 +1,2 @@
-# exploring-the-UCI-ML-repository
-In this project I'm exploring some of the less commonly used data sets in the UCI Machine Learning Repository, highlighting different aspects of machine learning problems.
+# Exploring the UCI Machine Learning Repository
+I'm exploring some of the less commonly used data sets in the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php). Some public data sets have gained huge popularity in introductory machine learning examples (and I see why), but c'mon, if I see the iris flowers, MNIST digits, or California housing prices one more time,  I'll throw my laptop out of the window. There are many more interesting data sets out there that are well suited for practicing machine learning and many can be found in the UCI ML repo. So in this project, I'll dig out some of these lesser known data sets to highlight different aspects of machine learning problems.
