@@ -10,4 +10,7 @@ In [this project](./Ensembles-for-neutron-stars/Pulsars_HTRU2.ipynb) I'll see ho
 ### Dimensionality reduction for colonoscopy data
 In [this project](./Dimensionality-reduction-for-colonoscopy-data/Colonoscopy.ipynb) I'll employ principal component analysis to reduce the high dimensional data from colonoscopy videos as a preprocessing step for classifying gastrointestinal lesions as  malignant or benign.
 
+### Optimized deep neural networks learning poker hands
+In [this project](./Deep-learning-on-poker-hands/Deep_learning_poker_hand.ipynb) I'll set up multi-layer perceptron deep neural networks with Keras and TensorFlow to learn poker hands and optimize their hyper-parameters with the hyperas/hyperopt package.
+
 
