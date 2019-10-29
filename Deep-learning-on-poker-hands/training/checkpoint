@@ -1,0 +1,2 @@
+model_checkpoint_path: "poker_hand_model.ckpt"
+all_model_checkpoint_paths: "poker_hand_model.ckpt"
