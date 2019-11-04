@@ -13,4 +13,5 @@ In [this project](./Dimensionality-reduction-for-colonoscopy-data/Colonoscopy.ip
 ### Optimized deep neural networks learning poker hands
 In [this project](./Deep-learning-on-poker-hands/Deep_learning_poker_hand.ipynb) I'll set up multi-layer perceptron deep neural networks with Keras and TensorFlow to learn poker hands and optimize their hyper-parameters with the hyperas/hyperopt package.
 
-
+### ResNet for classifying cats and dogs
+In [this project](./ResNet-CNNs-on-cats-and-dogs/ResNet_cat_dog.ipynb) I'll set up an image data augmentation pipeline which I'll feed into a ResNet-style convolutional neural network to tell apart cats from dogs.
