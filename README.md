@@ -15,3 +15,6 @@ In [this project](./Deep-learning-on-poker-hands/Deep_learning_poker_hand.ipynb)
 
 ### ResNet for classifying cats and dogs
 In [this project](./ResNet-CNNs-on-cats-and-dogs/ResNet_cat_dog.ipynb) I'll set up an image data augmentation pipeline which I'll feed into a ResNet-style convolutional neural network to tell apart cats from dogs.
+
+### Toxic comments on AWS
+In [this project](./Toxic-comments-on-AWS) I'll try to classify verbally toxic comments on Wikipedia articles on the AWS Cloud with the SageMaker Service, using dedicate functionalities for building, training, and deploying models. I will use two different approaches: A shallow, non-sequential model, as well as a deep, recurrent neural network model.
